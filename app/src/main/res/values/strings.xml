@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LampaTestApp</string>
+
+    <string name="task_title">Задача №</string>
+    <string name="task_description">Описание задачи №</string>
+    <string name="no_tasks">Не обнаружено задач</string>
+    <string name="image_description">Описание фотографии №</string>
+    <string name="task_list_fragment_title">Задачи</string>
+</resources>
